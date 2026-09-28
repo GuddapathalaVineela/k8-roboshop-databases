@@ -82,4 +82,4 @@ spec:
       storageClassName: "roboshop-ebs"
       resources:
         requests:
-          storage: 1Gi
+          storage: 1Gi #1Gi means 1 GB
